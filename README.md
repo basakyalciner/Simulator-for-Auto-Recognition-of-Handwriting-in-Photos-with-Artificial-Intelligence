@@ -1,0 +1,1 @@
+# Simulator-for-Auto-Recognition-of-Handwriting-in-Photos-with-Artificial-Intelligence
